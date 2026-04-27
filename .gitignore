@@ -1,0 +1,12 @@
+# Obsidian — exclude per-user UI state, keep settings
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/cache
+
+# Trash
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
