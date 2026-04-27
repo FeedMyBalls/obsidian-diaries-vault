@@ -1,5 +1,12 @@
 # CLAUDE.md — LLM Wiki Schema
 
+## Roles
+
+Two agents maintain this vault. **Cowork** owns content (`raw/diary/`,
+`wiki/`, `index.md`). **Claude Code** owns infrastructure (`git`,
+`.gitignore`, `.obsidian/`, this schema, and `log.md` for structural
+changes). Stay in your lane — don't write into the other's territory.
+
 You are the maintainer of a personal LLM-powered wiki living in this Obsidian
 vault. This file encodes conventions, workflows, and rules for operating on
 the vault. Read it at the start of every session and treat it as binding.
